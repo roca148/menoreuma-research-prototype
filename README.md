@@ -12,7 +12,7 @@ Abra `index.html` en un navegador. Funciona sin instalación y sin conexión; lo
 - `VALIDACION.md`: evaluación necesaria antes de uso clínico.
 - `tests.cjs`: comprobaciones automatizadas de reglas de seguridad.
 - `catalogo-pubmed.csv`: catálogo bibliográfico de 717 artículos, con cribado humano pendiente; no equivale a estudios incluidos.
-- `busqueda-pubmed.json`: búsqueda y procedencia de los 719 identificadores recuperados (incluye dos registros no representados como artículos en el catálogo).
+- `busqueda-pubmed.json`: búsqueda y procedencia de los 719 identificadores recuperados (717 artículos y dos capítulos de libros, identificados en `registros-libros.csv`).
 
 ## Qué representa
 
